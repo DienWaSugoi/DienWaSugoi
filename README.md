@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Scarborrower
-- 🌱 I’m currently learning C++. I just started since 13/11/2021
-- 💞️ I’m looking forward to earn a lot of money doing cs.
--Help me out if you can!
+- Hi, I’m @Scarborrower
+- I’m a linux enthusiast
+- Rust enjoyer, C lover, C++ hater (kinda)
+- I describe my self as a minimalist and lowlevel programming lover
